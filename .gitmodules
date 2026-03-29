@@ -1,3 +1,6 @@
 [submodule "problems/spring-2026-selection-1c56-binary-search-fa9c"]
 	path = problems/spring-2026-selection-1c56-binary-search-fa9c
 	url = https://github.com/testorganizationthu/spring-2026-selection-1c56-binary-search-fa9c.git
+[submodule "problems/spring-2026-selection-1c56-graph-traversal-4de8"]
+	path = problems/spring-2026-selection-1c56-graph-traversal-4de8
+	url = https://github.com/testorganizationthu/spring-2026-selection-1c56-graph-traversal-4de8.git
